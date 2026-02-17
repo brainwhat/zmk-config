@@ -7,4 +7,3 @@
 #
 board: [ "nice_nano" ]
 shield: [ "cradio_left", "cradio_right" ]
----
